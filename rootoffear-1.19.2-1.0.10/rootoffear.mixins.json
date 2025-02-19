@@ -1,0 +1,21 @@
+  {
+	"required": true,
+	"package": "com.alexander.rootoffear.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "rootoffear.refmap.json",
+	"mixins": [
+		"EntityMixin",
+		"ServerLevelAccessor",
+		"BedSleepingProblemMixin",
+		"WalkNodeEvaluatorMixin",
+		"LevelMixin",
+		"BucketItemMixin",
+		"DispenserBlockMixin"
+	],
+	"client": [
+		"FogRendererMixin",
+		"LevelRendererMixin",
+		"MinecraftMixin"
+	],
+	"minVersion": "0.8"
+  }

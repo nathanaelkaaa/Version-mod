@@ -1,0 +1,211 @@
+{
+	"music.wilted": {
+		"sounds": [
+			{
+				"name": "rootoffear:music/wilted",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.wilted.idle": {
+			"subtitle": "subtitles.entity.wilted.idle",
+			"sounds": [
+				{
+					"name": "rootoffear:entities/wilted/idle1",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/idle2",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/idle3",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/idle4",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/idle5",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/idle6",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/idle7",
+					"stream": true
+				}
+			]
+		},
+		"entity.wilted.hurt": {
+				"subtitle": "subtitles.entity.wilted.hurt",
+				"sounds": [
+					{
+						"name": "rootoffear:entities/wilted/hurt1",
+						"stream": true
+					},
+					{
+						"name": "rootoffear:entities/wilted/hurt2",
+						"stream": true
+					},
+					{
+						"name": "rootoffear:entities/wilted/hurt3",
+						"stream": true
+					},
+					{
+						"name": "rootoffear:entities/wilted/hurt4",
+						"stream": true
+					}
+				]
+			},
+	"entity.wilted.step": {
+		"subtitle": "subtitles.entity.wilted.step",
+		"sounds": [
+			{
+				"name": "rootoffear:entities/wilted/step1",
+				"stream": true
+			},
+			{
+				"name": "rootoffear:entities/wilted/step2",
+				"stream": true
+			}
+		]
+	},
+	"entity.wilted.attack": {
+			"subtitle": "subtitles.entity.wilted.attack",
+			"sounds": [
+				{
+					"name": "rootoffear:entities/wilted/attack1",
+					"stream": true
+				},
+				{
+					"name": "rootoffear:entities/wilted/attack2",
+					"stream": true
+				}
+			]
+		},
+		"entity.wilted.leaf_storm": {
+					"subtitle": "subtitles.entity.wilted.leaf_storm",
+					"sounds": [
+						{
+							"name": "rootoffear:entities/wilted/leaf_storm",
+							"stream": true
+						}
+					]
+				},
+				"entity.wilted.sway": {
+									"subtitle": "subtitles.entity.wilted.sway",
+									"sounds": [
+										{
+											"name": "rootoffear:entities/wilted/sway",
+											"stream": true
+										}
+									]
+								},
+								"entity.wilted.extinguish": {
+											"subtitle": "subtitles.entity.wilted.extinguish",
+											"sounds": [
+												{
+													"name": "rootoffear:entities/wilted/extinguish1",
+													"stream": true
+												},
+												{
+													"name": "rootoffear:entities/wilted/extinguish2",
+													"stream": true
+												}
+											]
+										},
+										"entity.wilted.leap": {
+												"subtitle": "subtitles.entity.wilted.leap",
+												"sounds": [
+													{
+														"name": "rootoffear:entities/wilted/leap",
+														"stream": true
+													}
+												]
+											},
+											"entity.wilted.land": {
+																							"subtitle": "subtitles.entity.wilted.land",
+																							"sounds": [
+																								{
+																									"name": "rootoffear:entities/wilted/land",
+																									"stream": true
+																								}
+																							]
+																						},
+																						"entity.wilted.dig_out": {
+																								"subtitle": "subtitles.entity.wilted.dig_out",
+																								"sounds": [
+																									{
+																										"name": "rootoffear:entities/wilted/dig_out",
+																										"stream": true
+																									}
+																								]
+																							},
+																							"entity.wilted.dig_in": {
+																									"subtitle": "subtitles.entity.wilted.dig_in",
+																									"sounds": [
+																										{
+																											"name": "rootoffear:entities/wilted/dig_in",
+																											"stream": true
+																										}
+																									]
+																								},
+																								"entity.wilted.ground_grab": {
+																										"subtitle": "subtitles.entity.wilted.ground_grab",
+																										"sounds": [
+																											{
+																												"name": "rootoffear:entities/wilted/ground_grab",
+																												"stream": true
+																											}
+																										]
+																									},
+																									"entity.wilted.curse_item": {
+																										"subtitle": "subtitles.entity.wilted.curse_item",
+																											"sounds": [
+																												{
+																													"name": "rootoffear:entities/wilted/curse_item",
+																													"stream": true
+																												}
+																											]
+																										},
+																										"entity.wilted.death": {
+																												"subtitle": "subtitles.entity.wilted.death",
+																												"sounds": [
+																													{
+																														"name": "rootoffear:entities/wilted/death",
+																														"stream": true
+																													}
+																												]
+																											},
+																											"entity.wilted.pulse": {
+																														"subtitle": "subtitles.entity.wilted.pulse",
+																														"sounds": [
+																															{
+																																"name": "rootoffear:entities/wilted/pulse1",
+																																"stream": true
+																															},
+																															{
+																																"name": "rootoffear:entities/wilted/pulse2",
+																																"stream": true
+																															},
+																															{
+																																"name": "rootoffear:entities/wilted/pulse3",
+																																"stream": true
+																															}
+																														]
+																													},
+																													"entity.wilted.reveal": {
+																															"subtitle": "subtitles.entity.wilted.reveal",
+																															"sounds": [
+																																{
+																																	"name": "rootoffear:entities/wilted/reveal",
+																																	"stream": true
+																																}
+																															]
+																														}
+}

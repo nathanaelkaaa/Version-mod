@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: rootoffear
+Specification-Vendor: Alexander's Fun and Games
+Specification-Version: 1
+Implementation-Title: TheRootOfFear
+Implementation-Version: 1.0.10
+Implementation-Vendor: Alexander's Fun and Games
+Implementation-Timestamp: 2024-11-11T11:34:29+0000
+MixinConfigs: rootoffear.mixins.json
+
